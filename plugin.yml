@@ -1,5 +1,17 @@
 name: InvisibleHat
 main: InvisibleHat\Main
+author: MrDoni98
 api: 2.0.0
 version: 0.1
-author: MrDoni98
+
+commands:
+ ihat:
+  description: "Получить шапку-невидимку"
+
+permissions:
+ ivisiblehat.cmd:
+  deffault: op
+  description: "получение шапки"
+ ivisiblehat:
+  deffault: op
+  description: "использование шапки"
