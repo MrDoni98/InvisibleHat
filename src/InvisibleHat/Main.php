@@ -4,6 +4,7 @@ namespace InvisibleHat;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
+use pocketmine\utils\TextFormat as F;
 use pocketmine\Player;
 use pocketmine\entity\Effect;
 use pocketmine\event\Listener;
